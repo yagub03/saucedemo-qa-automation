@@ -1,4 +1,4 @@
-\# QA Automation – SauceDemo Login Tests
+# QA Automation – SauceDemo Login Tests
 
 
 
@@ -14,17 +14,17 @@ The project demonstrates the use of \*\*Playwright with TypeScript\*\*, \*\*Page
 
 
 
-\## Tech Stack
+## Tech Stack
 
 
 
-\- Playwright  
+- Playwright  
 
-\- TypeScript  
+- TypeScript  
 
-\- Node.js (v20+)  
+- Node.js (v20+)  
 
-\- Gherkin (BDD scenarios)
+- Gherkin (BDD scenarios)
 
 
 
@@ -32,7 +32,7 @@ The project demonstrates the use of \*\*Playwright with TypeScript\*\*, \*\*Page
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -62,27 +62,27 @@ saucedemo/
 
 
 
-\## Covered Scenarios
+## Covered Scenarios
 
 
 
-\- Successful login with valid credentials
+- Successful login with valid credentials
 
-\- Login attempt with invalid credentials
+- Login attempt with invalid credentials
 
-\- Validation of error messages
+- Validation of error messages
 
-\- Verification of successful redirection after login
-
-
+- Verification of successful redirection after login
 
 
 
-How to Run the Tests
+
+
+##How to Run the Tests
 
 
 
-1\) Install dependencies
+1) Install dependencies
 
 ```bash
 
@@ -90,7 +90,7 @@ npm install
 
 ```
 
-2\) Install Playwright browsers
+2) Install Playwright browsers
 
 ```bash
 
@@ -100,7 +100,7 @@ npx playwright install
 
 
 
-3\) Run tests (headless)
+3) Run tests (headless)
 
 ```bash
 
@@ -110,7 +110,7 @@ npx playwright test
 
 
 
-4\) Run tests (headed)
+4) Run tests (headed)
 
 ```bash
 
@@ -120,7 +120,7 @@ npx playwright test --headed
 
 
 
-\## Test Reports
+## Test Reports
 
 
 
@@ -134,29 +134,29 @@ npx playwright show-report
 
 
 
-\## Notes
+## Notes
 
 
 
-\- The Page Object Model (POM) is used to keep tests clean and maintainable.
+- The Page Object Model (POM) is used to keep tests clean and maintainable.
 
 
 
-\- Playwright’s built-in auto-waiting and assertions (expect) are used instead of hard waits.
+- Playwright’s built-in auto-waiting and assertions (expect) are used instead of hard waits.
 
 
 
-\- Gherkin scenarios are provided separately in PDF format to describe test behavior from a user perspective.
+- Gherkin scenarios are provided separately in PDF format to describe test behavior from a user perspective.
 
 
 
-\## Part 3 – Theoretical Answers
+## Part 3 – Theoretical Answers
 
 Answers to the theoretical questions are provided in Part\_3\_Answers.pdf.
 
 
 
-\## Author
+## Author
 
 
 
