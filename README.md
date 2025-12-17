@@ -52,9 +52,9 @@ saucedemo/
 
 ├── package.json
 
-├── Gherkin\_Scenarios\_SauceDemo\_Login.pdf
+├── Gherkin_Scenarios_SauceDemo_Login.pdf
 
-├── Part\_3\_Answers.pdf
+├── Part_3_Answers.pdf
 
 
 
